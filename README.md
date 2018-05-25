@@ -1,6 +1,3 @@
 # primer-repositorio
 Aqui se puede escribir mas
-
-#prueba de texto para ingresar
-
-#
+# images-in-readme
